@@ -1,5 +1,3 @@
-components:
-  schemas:
     Problem:
       additionalProperties: false
         detail:
